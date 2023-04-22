@@ -76,6 +76,7 @@ public class ProblemsonArrays {
         // System.out.println(count);
         // lastOccurrences(arr,key);
         // System.out.println(strictlyGreater(arr,4));
+        
         System.out.println(isSorted(arr));
     }
 
