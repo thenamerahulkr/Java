@@ -70,12 +70,12 @@ public class ProblemsonArrays {
     public static void main(String args[]) {
         int arr[] = { 4, 7, 9, 9, };
         int key = 9;
-        // largestelement(arr);
-        // System.out.println(findkey(arr, key));
-        // numOfOccurrences(arr, key);
+        largestelement(arr);
+        System.out.println(findkey(arr, key));
+        numOfOccurrences(arr, key);
         // System.out.println(count);
-        // lastOccurrences(arr,key);
-        // System.out.println(strictlyGreater(arr,4));
+        lastOccurrences(arr,key);
+        System.out.println(strictlyGreater(arr,4));
         
         System.out.println(isSorted(arr));
     }
